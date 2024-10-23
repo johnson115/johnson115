@@ -1,7 +1,9 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Web Developer" width="100%">
+  
   
   # Hello, World! I'm Amen Allah Naamen 👋
+  
+<img src="http://propulsive.in/assets/img/service-icon/web.gif" alt="Web Developer" width="100%">
 
   [![Website](https://img.shields.io/badge/Website-amennoomen.com-blue?style=for-the-badge&logo=google-chrome)](https://amennoomen.com/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amen-allah-naamen)
